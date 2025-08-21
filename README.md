@@ -39,7 +39,8 @@ employee_manages_shipment.csv
 
 A mapping table connecting employees to the shipments they are responsible for.
 
-Project Summary & Key Insights
+**Project Summary & Key Insights**
+
 This project involved a detailed analysis of the provided datasets to generate actionable insights and a comprehensive dashboard. The key steps and findings include:
 
 Data Aggregation: The initial phase focused on cleaning and merging the various datasets to create a unified view of the company's operations. The Pivot Tables.csv file represents a crucial step in this process, where data was aggregated to summarize financial and logistical performance.
