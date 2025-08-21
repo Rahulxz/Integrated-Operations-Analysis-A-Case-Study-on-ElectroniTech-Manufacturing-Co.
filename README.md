@@ -47,4 +47,8 @@ Data Aggregation: The initial phase focused on cleaning and merging the various 
 
 Performance Analysis: We conducted a thorough analysis of shipment efficiency, payment statuses, and the relationship between employee roles and their impact on logistics. The data provides answers to key questions, such as the total revenue from paid shipments, the most common payment methods, and the distribution of domestic versus international shipments.
 
-Dashboard Creation: The final output of the project is a data dashboard, summarized in the Dashboard.csv file. This dashboard was designed to provide a quick, visual overview of the company's health, allowing stakeholders to easily track performance metrics and identify trends without needing to dive into the raw data.
+Dashboard Creation: The final output of the project is a data dashboard, this dashboard was designed to provide a quick, visual overview of the company's health, allowing stakeholders to easily track performance metrics and identify trends without needing to dive into the raw data. 
+
+Dashboard Overview
+<img width="680" height="449" alt="image" src="https://github.com/user-attachments/assets/a2856e37-6854-4e46-8201-4df62a82029d" />
+
