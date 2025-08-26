@@ -49,6 +49,11 @@ Performance Analysis: We conducted a thorough analysis of shipment efficiency, p
 
 Dashboard Creation: The final output of the project is a data dashboard, this dashboard was designed to provide a quick, visual overview of the company's health, allowing stakeholders to easily track performance metrics and identify trends without needing to dive into the raw data. 
 
+Here is the link to the documented file which comprises of detailed solution of the all functions and analysis done in the case study:
+https://docs.google.com/document/d/1YwNlBQAmB2rwenLHqANHTwnjPRB0BQ6mIcV6DtwSAhI/edit?usp=sharing
+
 Dashboard Overview
 <img width="680" height="449" alt="image" src="https://github.com/user-attachments/assets/a2856e37-6854-4e46-8201-4df62a82029d" />
+
+
 
